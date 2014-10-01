@@ -1,0 +1,28 @@
+{
+  "name": "cw-social-share",
+  "title": "CW Social Share",
+  "description": "jQuery plugin based on Share Button Generator",
+  "version": "0.1.0",
+  "homepage": "git@github.com:clivewalkden/CW-Social-Share.git",
+  "author": {
+    "name": "Clive Walkden",
+    "url": "https://github.com/clivewalkden"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:clivewalkden/CW-Social-Share.git"
+  },
+  "bugs": "https://github.com/clivewalkden/CW-Social-Share/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.7"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
