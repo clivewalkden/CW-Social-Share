@@ -1,5 +1,7 @@
 # CW Social Share
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clivewalkden/CW-Social-Share.svg)](https://greenkeeper.io/)
+
 jQuery plugin based on Share Button Generator
 
 ## Getting Started
